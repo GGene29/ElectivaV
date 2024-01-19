@@ -1,8 +1,9 @@
 # ElectivaV
 Realizar un Vídeo Juego
 
-Integrante:
-Genesis Sumoza
+Integrantes:
+Genesis Sumoza.
+Victor Maldonado.
 
 Lenguaje: Python
 Librería: Pygame
